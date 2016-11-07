@@ -10,6 +10,7 @@ The actual survey form is hosted on Google Forms. Depending on your mother langu
 * THE CHINESE VERSION: http://bit.ly/CN-2f61BQF0
 * THE JAPANESE VERSION: http://bit.ly/-JP2eopQJZ0
 * THE RUSSIAN VERSION: http://bit.ly/RU-2ftAnb41
+* THE SPANISH VERSION: http://bit.ly/ES-2f3VDR8
 
 My plan is to maximize the diffusion of this form. I will starf by contating the proper User Groups on Scrumalliance, Google and Linkedin. Suggestions are welcome (open an issue). 
 
