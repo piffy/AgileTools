@@ -14,7 +14,7 @@ The actual survey form is hosted on Google Forms. Depending on your mother langu
 * THE SPANISH VERSION: http://bit.ly/ES-2f3VDR8 (Thanks to Patrizia Pini)
 * THE ARABIC VERSION: (Underway)
 * THE GERMAN VERSION: http://bit.ly/DE-2fOcef7
-* THE FRENCH VERSION: bit.ly/FR-2fz84Yb
+* THE FRENCH VERSION: http://bit.ly/FR-2fz84Yb
 
 My plan is to maximize the diffusion of this form. I will start by contacting the proper User Groups on Scrumalliance, Google and Linkedin. Suggestions are welcome (open an issue). 
 
