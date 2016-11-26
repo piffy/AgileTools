@@ -12,7 +12,7 @@ The actual survey form is hosted on Google Forms. Depending on your mother langu
 * THE RUSSIAN VERSION: http://bit.ly/RU-2ftAnb41
 * THE FARSI VERSION: http://bit.ly/FA-2flk9zS (Thanks to Sheila Mossammamy)
 * THE SPANISH VERSION: http://bit.ly/ES-2f3VDR8 (Thanks to Patrizia Pini)
-* THE ARABIC VERSION: http://bit.ly/AR-2guEcdG 
+* THE ARABIC VERSION: http://bit.ly/AR-2guEcdG (Thanks to Mona Shorkof)
 * THE GERMAN VERSION: http://bit.ly/DE-2fOcef7
 * THE FRENCH VERSION: http://bit.ly/FR-2fz84Yb
 
