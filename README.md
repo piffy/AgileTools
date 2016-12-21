@@ -22,6 +22,10 @@ I can add more languages (for example, Portuguese and Hebrew), but in this case 
 
 If you find something wrong in the surveys, again open an issue!
 
-Results will be posted here in late 2017. 
+# Update (Dec 21)
+
+During this month oI received a fair amount of responses - especially the Italian and English-speaking community. But I need more data from Chinese, Japanese, Arabic and French Agilsts...in these case I have either no or a very low amount of answers. So, please respond and in the above cases,  spread the news around to your contacts. 
+
+The Survey will remain open *one more month*, then I will publish the results. 
 
 Thank you for your time. 
